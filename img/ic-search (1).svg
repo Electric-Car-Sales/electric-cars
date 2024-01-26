@@ -1,0 +1,29 @@
+<svg width="21" height="21" viewBox="0 0 21 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="21" height="21" fill="#E5E5E5"/>
+<g id="Page">
+<rect width="1440" height="2712" transform="translate(-1391.93 -29.3118)" fill="white"/>
+<g id="Top Bar" filter="url(#filter0_d_0_1)">
+<rect width="1440" height="80" transform="translate(-1391.93 -29.3118)" fill="white"/>
+<g id="navigation">
+<rect width="463" height="36" transform="translate(-434.932 -7.31183)" fill="white"/>
+<g id="textfield">
+<rect x="-171.432" y="-6.81183" width="199" height="35" rx="5.5" stroke="black" stroke-opacity="0.1"/>
+<g id="ic-search">
+<path id="shape" fill-rule="evenodd" clip-rule="evenodd" d="M14.2036 15.6856C12.8831 16.8097 11.1714 17.4882 9.30129 17.4882C5.12233 17.4882 1.73462 14.1005 1.73462 9.92153C1.73462 5.74257 5.12233 2.35486 9.30129 2.35486C13.4802 2.35486 16.868 5.74257 16.868 9.92153C16.868 11.7804 16.1977 13.4826 15.0857 14.7998L18.7177 18.4319L17.8338 19.3157L14.2036 15.6856ZM15.618 9.92153C15.618 13.4101 12.7899 16.2382 9.30129 16.2382C5.81269 16.2382 2.98462 13.4101 2.98462 9.92153C2.98462 6.43293 5.81269 3.60486 9.30129 3.60486C12.7899 3.60486 15.618 6.43293 15.618 9.92153Z" fill="black" fill-opacity="0.7"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_1" x="-1397.93" y="-35.3118" width="1452" height="92" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="3"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+</filter>
+</defs>
+</svg>
